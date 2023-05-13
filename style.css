@@ -1,0 +1,43 @@
+.container {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.imgContainer {
+    position: absolute;
+    top: 30%;
+    font-size: 20px;
+    text-align: center;
+    left: 40%;
+    color: white;
+}
+#img {
+    height: 50%;
+    width: 100%;
+}
+body {
+    background-color: black;
+    z-index: -1;
+}
+#rContainer {
+    position: absolute;
+    top: 60%;
+    left: 33vw;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#AGZM{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    width: 300px;
+    height: 300px;
+}
+#AGZM2{
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    width: 300px;
+    height: 300px;
+}
